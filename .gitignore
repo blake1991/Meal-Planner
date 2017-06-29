@@ -1,0 +1,16 @@
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+RecipeList/RecipeList/bin/
+RecipeList/RecipeList/obj/
+
+#RecipeList/RecipeList/bin/Debug/RecipeList.mdf
+#RecipeList/RecipeList/bin/Debug/RecipeList.vshost.exe.manifest
+#RecipeList/RecipeList/bin/Debug/RecipeList_log.ldf
+#RecipeList/RecipeList/obj/Debug/RecipeList_Content.g.cs
+#RecipeList/RecipeList/obj/Debug/RecipeList_Content.g.i.cs
+RecipeList/obj/
+RecipeList/bin/
